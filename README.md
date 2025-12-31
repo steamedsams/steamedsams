@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!!
+You can call me Sam. I'm a computer science grad. I'm mainly using this to host web projects. I don't really know what else to write here lol
 
 <!--
 **steamedsams/steamedsams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
